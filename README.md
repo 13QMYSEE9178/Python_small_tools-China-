@@ -1,3 +1,2 @@
 # Python_small_tools-China-
-They are some practical tools for Python,but  it is the Chinese version. Therefore, it is recommended that Chinese users from Github download and use it.
-Made in China
+它们是Python的一些实用工具，但它是中文版的。因此，建议中国用户从Github下载并使用。
